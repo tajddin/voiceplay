@@ -12,8 +12,8 @@ Voiceplay is comprised of a node-based server that runs on your local network an
 * *Ask iTunes give me more infor about this video*
 * *Launch this video on my mac.*
 * *Ask YouTube to play something else*
-* *Ask YouTube / iTunes what are we watching?
-* *Ask YouTube / iTunes to pause / repeat / stop.
+* *Ask YouTube / iTunes what are we watching?*
+* *Ask YouTube / iTunes to pause / repeat / stop.*
 
 
 ### Requirements ###
