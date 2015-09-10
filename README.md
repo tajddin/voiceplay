@@ -67,9 +67,5 @@ Airplay device discovered: Apple TV.  Ready to start receiving requests from the
 
 ### Notes ###
 * Ensure that the port you specifed (default: 8080) is open by your ISP and that it's forwarded to the computer running voiceplay.js.
-<<<<<<< HEAD
 * Refer to [Developing an Alexa Skill as a Lambda Function](https://developer.amazon.com/appsandservices/solutions/alexa/alexa-skills-kit/docs/developing-an-alexa-skill-as-a-lambda-function) to learn how to prep your Amazon Echo for use with your Amazon Developer account.
-
-
-=======
->>>>>>> ec06f640c11ad93d1ae22180a7f3068d7bef4f5f
+* For demo, see [Voiceplay, an experimental method of controlling your Apple TV by voice via the Amazon Echo](http://tajddin.com/blog/2015/9/9/voiceplay-an-experimental-method-of-controlling-your-apple-tv-by-voice-via-the-amazon-echo)
