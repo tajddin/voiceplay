@@ -1,0 +1,13 @@
+{
+	"intents": [
+		{
+			"intent": "YouTube",
+			"slots": [
+				{
+					"name": "Question",
+					"type": "LITERAL"
+				}
+			]
+		}
+	]
+}

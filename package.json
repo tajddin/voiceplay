@@ -1,0 +1,51 @@
+{
+  "name": "voiceplay",
+  "version": "0.3.10",
+  "description": "Voiceplay is an experimental method of controlling your airplay-connected devices by voice via the Amazon Echo, enabling you to search for and control content from YouTube and your iTunes media library and play it directly on your TV.  ",
+  "main": "voiceplay.js",
+  "dependencies": {
+    "airplay2": "git+https://github.com/tajddin/node-airplay.git",
+    "natural": "^0.2.1",
+    "opennlp": "^1.1.0",
+    "youtube-node": "^1.3.0",
+    "ytdl-core": "^0.5.1",
+    "nlp_compromise": "^1.1.3",
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tajddin/voiceplay.git"
+  },
+  "keywords": [
+    "amazon",
+    "echo",
+    "alexa",
+    "airplay",
+    "appletv",
+    "apple",
+    "tv",
+    "voice",
+    "activated",
+    "controlled",
+    "bayes",
+    "intent",
+    "classification",
+    "lambda",
+    "aws",
+    "voice",
+    "activated",
+    "itunes",
+    "media"
+  ],
+  "author": "Tajddin Maghni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tajddin/voiceplay/issues"
+  },
+  "homepage": "https://github.com/tajddin/voiceplay#readme"
+}

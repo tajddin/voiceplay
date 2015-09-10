@@ -1,0 +1,13 @@
+{
+	"intents": [
+		{
+			"intent": "iTunes",
+			"slots": [
+				{
+					"name": "Question",
+					"type": "LITERAL"
+				}
+			]
+		}
+	]
+}
