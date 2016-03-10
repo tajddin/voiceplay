@@ -1,6 +1,6 @@
 {
   "name": "voiceplay",
-  "version": "0.3.10",
+  "version": "0.3.11",
   "description": "Voiceplay is an experimental method of controlling your airplay-connected devices by voice via the Amazon Echo, enabling you to search for and control content from YouTube and your iTunes media library and play it directly on your TV.  ",
   "main": "voiceplay.js",
   "dependencies": {
