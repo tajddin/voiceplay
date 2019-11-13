@@ -7,7 +7,7 @@ Voiceplay is comprised of a node-based server that runs on your local network an
 'intents.js' will give you a better idea of what can be said to the Echo.  Here are some examples:
 
 * *Ask YouTube to play a music video by Michael Jackson*
-* *Ask YouTube to play a documentary about Carl Segan*
+* *Ask YouTube to play a documentary about Carl Sagan*
 * *Ask iTunes to play Star Trek*
 * *Ask iTunes give me more infor about this video*
 * *Launch this video on my mac.*
